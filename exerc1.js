@@ -21,5 +21,3 @@ function exerc1() {
             container.appendChild(somaDiv);
             document.body.appendChild(container);
     }
-
-//Laís e Pamella
